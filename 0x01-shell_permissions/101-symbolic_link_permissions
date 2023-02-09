@@ -1,0 +1,2 @@
+#!/bin/bash
+vhown -h vincent:staff _hello
