@@ -1,1 +1,1 @@
-All tasks going here
+Shell, init files, variables and expansions
